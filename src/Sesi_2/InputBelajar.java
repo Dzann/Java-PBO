@@ -1,3 +1,4 @@
+package Sesi_2;
 import javax.swing.JOptionPane;
 
 public class InputBelajar {

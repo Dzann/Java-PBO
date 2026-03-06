@@ -1,3 +1,4 @@
+package Sesi_2;
 public class BelajarJava {
     public static void main(String[] args) throws Exception {
         System.out.println("Belajar JAVA");

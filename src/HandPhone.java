@@ -1,3 +1,4 @@
+
 public class HandPhone {
 
     String jenis_hp;
@@ -12,7 +13,7 @@ public class HandPhone {
         return jenis_hp;
     }
 
-    public int getTahunPembuatan(){
+    public int getTahunPembuatan(){ 
         return tahun_pembuatan;
     }
 
