@@ -1,4 +1,4 @@
-package Sesi_6.Tugas;
+package Sesi_5.Tugas;
 
 public class Student extends Person {
     private int numCourses = 0;

@@ -1,4 +1,4 @@
-package Sesi_6.Tugas;
+package Sesi_5.Tugas;
 
 public class Main {
     public static void main(String[] args) {
